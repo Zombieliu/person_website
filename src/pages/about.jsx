@@ -44,7 +44,7 @@ export default function About() {
         <title>About -Henry Liu</title>
         <meta
           name="description"
-          content="I’m Spencer Sharp. I live in New York City, where I design the future."
+          content="I’m Henry Liu. I live in MetaVerse, where I design the future."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">

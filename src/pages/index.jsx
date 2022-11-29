@@ -285,7 +285,7 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms."
+          content="I’m Henry Liu, a Full Stack Engineer,and Amateur Game Producer based in MetaVerse. I’m the Chain Chief Architect of Web3Games, where we developtechnologies that empower regular people to explore web3 on their own terms."
         />
       </Head>
       <Container className="mt-9">
